@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "repository": "https://github.com/samurai-maker/neeeewfilta",
+    "repository": "https://github.com/samurai-maker/devifilta",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
